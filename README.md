@@ -1,4 +1,5 @@
-# tic-tac-toe-ts
+# Tic-Tac-Toe Vue Typescript
+This repo contains an adaptation of React's Tic-Tac-Toe tutorial made with Vue + Typescript using class-style component syntax.
 
 ## Project setup
 ```
